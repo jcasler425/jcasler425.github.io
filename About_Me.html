@@ -11,6 +11,20 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+			.grid-container {
+				display: grid;
+				grid-template-columns: auto auto auto;
+				/*background-color: #2196F3;*/
+			}
+			.grid-item {
+				/*background-color: rgba(255, 255, 255, 0.8);*/
+				border: 1px solid rgba(0, 0, 0, 0.8);
+				padding: 20px;
+				font-size: 20px;
+				text-align: left;
+			}
+			</style>
 	</head>
 	<body class="is-preload">
 
@@ -48,10 +62,16 @@
 									<header class="major">
 										<h1>About Me</h1>
 									</header>
-									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
-									<p> Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
-			
-		
+									<!--<span class="image main"><img src="images/pic11.jpg" alt="" /></span> -->
+									<div class="grid-container">
+										<div class="grid-item">
+											Jonathan Casler 
+											Innovation & Entrepreneurship Major 
+											Clarkson University ‘23
+										</div>
+										<div class="grid-item">
+											About Me
+										</div>
 								</div>
 							</section>
 
