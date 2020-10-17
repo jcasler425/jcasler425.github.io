@@ -3951,9 +3951,15 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-.grid-container {
+.grid-container-two {
 	display: grid;
 	grid-template-columns: auto auto;
+	/*background-color: #2196F3;*/
+}
+
+.grid-container-three {
+	display: grid;
+	grid-template-columns: auto auto auto;
 	/*background-color: #2196F3;*/
 }
 
