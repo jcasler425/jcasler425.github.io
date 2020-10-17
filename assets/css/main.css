@@ -3953,7 +3953,7 @@ input, select, textarea {
 
 .grid-container {
 	display: grid;
-	grid-template-columns: auto auto auto;
+	grid-template-columns: auto auto;
 	/*background-color: #2196F3;*/
 }
 
