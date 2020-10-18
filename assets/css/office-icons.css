@@ -23,3 +23,39 @@
 .photo-editing {
     background-image: url(../../images/photoshop.png);
 }
+
+.cpr {
+    background-image: url(../../images/cpr.png);
+}
+
+.detail {
+    background-image: url(../../images/Detail.png);
+}
+
+.video-editing {
+    background-image: url(../../images/premiere.jpg);
+}
+
+.lifegaurd{
+    background-image: url(../../images/lifeguard.png);
+}
+
+.analytics{
+    background-image: url(../../images/analytics.png);
+}
+
+.learning{
+    background-image: url(../../images/learning.png);
+}
+
+.leadership{
+    background-image: url(../../images/manager.png);
+}
+
+.multitask{
+    background-image: url(../../images/multitask.png);
+}
+
+.solving{
+    background-image: url(../../images/solving.png);
+}
