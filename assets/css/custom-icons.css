@@ -1,11 +1,12 @@
 .icon {
     background-position: left center;
     background-repeat: no-repeat;
-    padding-left: 64px; /* Or size of icon + spacing */
+    padding-left: 72px; /* Or size of icon + spacing */
     background-size: auto 64px;
     height: 64px;
     display: inline-block;
     padding-top: 13px;
+    font-weight: bold;
 }
 
 .excel {
