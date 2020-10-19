@@ -36,7 +36,7 @@
     background-image: url(../../images/premiere.jpg);
 }
 
-.lifegaurd{
+.lifegaurd {
     background-image: url(../../images/lifeguard.png);
 }
 
@@ -58,4 +58,28 @@
 
 .solving{
     background-image: url(../../images/solving.png);
+}
+
+.content{
+    background-image: url(../../images/content.png);
+}
+
+.cut{
+    background-image: url(../../images/cut.png);
+}
+
+.pedit{
+    background-image: url(../../images/pedit.png);
+}
+
+.development{
+    background-image: url(../../images/developmentpng.png);
+}
+
+.marketing{
+    background-image: url(../../images/marketing.png);
+}
+
+.media{
+    background-image: url(../../images/social.png);
 }
