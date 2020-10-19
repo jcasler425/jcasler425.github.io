@@ -9,15 +9,15 @@
 }
 
 .excel {
-    background-image: url(../../images/Excel_64x64.svg);
+    background-image: url(../../images/Excel_375x375.png);
 }
 
 .powerpoint {
-    background-image: url(../../images/Powerpoint_64x64.svg);
+    background-image: url(../../images/Powerpoint_375x375.png);
 }
 
 .word {
-    background-image: url(../../images/Word_64x64.svg);
+    background-image: url(../../images/Word_375x375.png);
 }
 
 .photo-editing {
